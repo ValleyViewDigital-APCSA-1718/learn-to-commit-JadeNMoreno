@@ -1,17 +1,25 @@
-# Chapter-1
-Programming Practices from Chapter 1
-Copy and paste your code from these exercises into this file.
+/**
+ * Jade Moreno
+ * 08/14/17
+ * Initials
+ **/
+ public class Initials
+ {
+     public static void main(String[] args)
+     {
+         System.out.println(" JJJJJJJJJJJJJJJJJJJJ   NNNN         NN    MMMM                 MMMM");
+         System.out.println(" JJJJJJJJJJJJJJJJJJJJ   NNNNN        NN    MMMM                 MMMM");
+         System.out.println("        JJJJJJ          NN  NN       NN    MM MM               MM MM");
+         System.out.println("        JJJJJJ          NN   NN      NN    MM  MM             MM  MM");
+         System.out.println("        JJJJJJ          NN    NN     NN    MM   MM           MM   MM");
+         System.out.println("        JJJJJJ          NN     NN    NN    MM    MM         MM    MM");
+         System.out.println("        JJJJJJ          NN      NN   NN    MM     MM       MM     MM");
+         System.out.println("        JJJJJJ          NN       NN  NN    MM      MM     MM      MM");
+         System.out.println("  JJJJJJJJJJJJ          NN        NN NN    MM       MM   MM       MM");
+         System.out.println("   JJJJJJJJJJ           NN         NNNN    MM        MM MM        MM");
+         System.out.println("      JJJJJJ            NN          NN     MM         MMM         MM");
+     }//End method main
+ }//End class JadeMoreno
 
-* 1.1
 
 
-* 1.3
-
-
-* 1.4
-
-
-* 1.5
-
-
-* Extra (If you did either one)
