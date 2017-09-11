@@ -1,17 +1,19 @@
-# Chapter-1
-Programming Practices from Chapter 1
-Copy and paste your code from these exercises into this file.
+/**
+ * Jade Moreno
+ * 08/16/17
+ * Jade Moreno
+ **/
+ 
+ public class JadeMoreno
+ {
+     public static void main(String[] args)
+     {
+         System.out.println("Jade Noel Moreno");
+         System.out.println("Nickname:\t\"Jadey\"");
+         System.out.println("Born:\tFebruary 2, 2001");
+         System.out.println("Hobbies:\ttheatre, puzzles, reading, drawing, and anything that occupies me");
+         System.out.println("Favorite Book:\t'Storm and Silence'");
+         System.out.println("Favorite Movie:\t\"None\"");
+     }//End method main
+ }//End class JadeMoreno
 
-* 1.1
-
-
-* 1.3
-
-
-* 1.4
-
-
-* 1.5
-
-
-* Extra (If you did either one)
