@@ -1,25 +1,19 @@
 /**
  * Jade Moreno
- * 08/14/17
- * Initials
+ * 08/16/17
+ * MyFavoriteQuote
  **/
- public class Initials
+ 
+ public class MyFavoriteQuote
  {
      public static void main(String[] args)
      {
-         System.out.println(" JJJJJJJJJJJJJJJJJJJJ   NNNN         NN    MMMM                 MMMM");
-         System.out.println(" JJJJJJJJJJJJJJJJJJJJ   NNNNN        NN    MMMM                 MMMM");
-         System.out.println("        JJJJJJ          NN  NN       NN    MM MM               MM MM");
-         System.out.println("        JJJJJJ          NN   NN      NN    MM  MM             MM  MM");
-         System.out.println("        JJJJJJ          NN    NN     NN    MM   MM           MM   MM");
-         System.out.println("        JJJJJJ          NN     NN    NN    MM    MM         MM    MM");
-         System.out.println("        JJJJJJ          NN      NN   NN    MM     MM       MM     MM");
-         System.out.println("        JJJJJJ          NN       NN  NN    MM      MM     MM      MM");
-         System.out.println("  JJJJJJJJJJJJ          NN        NN NN    MM       MM   MM       MM");
-         System.out.println("   JJJJJJJJJJ           NN         NNNN    MM        MM MM        MM");
-         System.out.println("      JJJJJJ            NN          NN     MM         MMM         MM");
+         System.out.println("\"People were created to be loved.");
+         System.out.println("Things were created to be used.");
+         System.out.println("The reason the world is in chaos is");
+         System.out.println("because things are being loved");
+         System.out.println("and people are being used.\" ");
+         System.out.println("-John Green");
      }//End method main
  }//End class JadeMoreno
-
-
 
